@@ -270,5 +270,8 @@
     <ClCompile Include="L2_큰 수 만들기.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
+    <ClCompile Include="L2_조이스틱.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
