@@ -267,10 +267,10 @@
     <ClCompile Include="L5\L5_방의 개수.cpp">
       <Filter>소스 파일\L5</Filter>
     </ClCompile>
-    <ClCompile Include="L2_큰 수 만들기.cpp">
+    <ClCompile Include="L2\L2_조이스틱.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
-    <ClCompile Include="L2_조이스틱.cpp">
+    <ClCompile Include="L2\L2_큰 수 만들기.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
   </ItemGroup>
