@@ -173,6 +173,8 @@
     <ClCompile Include="L2\L2_124 나라의 숫자.cpp" />
     <ClCompile Include="L2\L2_H-Index.cpp" />
     <ClCompile Include="L2\L2_가장 큰 수.cpp" />
+    <ClCompile Include="L2\L2_괄호 변환.cpp" />
+    <ClCompile Include="L2\L2_구명보트.cpp" />
     <ClCompile Include="L2\L2_기능개발.cpp" />
     <ClCompile Include="L2\L2_다리를 지나는 트럭.cpp" />
     <ClCompile Include="L2\L2_멀쩡한 사각형.cpp" />

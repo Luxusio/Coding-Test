@@ -273,5 +273,11 @@
     <ClCompile Include="L2\L2_큰 수 만들기.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_구명보트.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_괄호 변환.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
