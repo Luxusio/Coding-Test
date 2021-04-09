@@ -173,15 +173,18 @@
     <ClCompile Include="L2\L2_124 나라의 숫자.cpp" />
     <ClCompile Include="L2\L2_H-Index.cpp" />
     <ClCompile Include="L2\L2_가장 큰 수.cpp" />
+    <ClCompile Include="L2\L2_게임 맵 최단거리.cpp" />
     <ClCompile Include="L2\L2_괄호 변환.cpp" />
     <ClCompile Include="L2\L2_구명보트.cpp" />
     <ClCompile Include="L2\L2_기능개발.cpp" />
     <ClCompile Include="L2\L2_다리를 지나는 트럭.cpp" />
+    <ClCompile Include="L2\L2_다음 큰 숫자.cpp" />
     <ClCompile Include="L2\L2_멀쩡한 사각형.cpp" />
     <ClCompile Include="L2\L2_메뉴 리뉴얼.cpp" />
     <ClCompile Include="L2\L2_문자열 압축.cpp" />
     <ClCompile Include="L2\L2_소수 찾기.cpp" />
     <ClCompile Include="L2\L2_스킬트리.cpp" />
+    <ClCompile Include="L2\L2_올바른 괄호.cpp" />
     <ClCompile Include="L2\L2_주식가격.cpp" />
     <ClCompile Include="L2\L2_카펫.cpp" />
     <ClCompile Include="L2\L2_타겟 넘버.cpp" />
@@ -190,6 +193,7 @@
     <ClCompile Include="L2\L2_큰 수 만들기.cpp" />
     <ClCompile Include="L2\L2_삼각 달팽이.cpp" />
     <ClCompile Include="L2\L2_카카오 프렌즈 컬러링북.cpp" />
+    <ClCompile Include="L2\L2_피보나치 수.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
     <ClCompile Include="L3\L3_N-Queen.cpp" />
     <ClCompile Include="L3\L3_N으로 표현.cpp" />

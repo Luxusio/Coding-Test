@@ -288,5 +288,17 @@
     <ClCompile Include="L2\L2_메뉴 리뉴얼.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_피보나치 수.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_올바른 괄호.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_다음 큰 숫자.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_게임 맵 최단거리.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
