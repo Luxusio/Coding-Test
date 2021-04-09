@@ -178,6 +178,7 @@
     <ClCompile Include="L2\L2_기능개발.cpp" />
     <ClCompile Include="L2\L2_다리를 지나는 트럭.cpp" />
     <ClCompile Include="L2\L2_멀쩡한 사각형.cpp" />
+    <ClCompile Include="L2\L2_메뉴 리뉴얼.cpp" />
     <ClCompile Include="L2\L2_문자열 압축.cpp" />
     <ClCompile Include="L2\L2_소수 찾기.cpp" />
     <ClCompile Include="L2\L2_스킬트리.cpp" />
@@ -187,6 +188,8 @@
     <ClCompile Include="L2\L2_프린터.cpp" />
     <ClCompile Include="L2\L2_조이스틱.cpp" />
     <ClCompile Include="L2\L2_큰 수 만들기.cpp" />
+    <ClCompile Include="L2\L2_삼각 달팽이.cpp" />
+    <ClCompile Include="L2\L2_카카오 프렌즈 컬러링북.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
     <ClCompile Include="L3\L3_N-Queen.cpp" />
     <ClCompile Include="L3\L3_N으로 표현.cpp" />
