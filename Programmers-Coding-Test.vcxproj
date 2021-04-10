@@ -185,6 +185,7 @@
     <ClCompile Include="L2\L2_메뉴 리뉴얼.cpp" />
     <ClCompile Include="L2\L2_문자열 압축.cpp" />
     <ClCompile Include="L2\L2_소수 찾기.cpp" />
+    <ClCompile Include="L2\L2_순위 검색.cpp" />
     <ClCompile Include="L2\L2_스킬트리.cpp" />
     <ClCompile Include="L2\L2_올바른 괄호.cpp" />
     <ClCompile Include="L2\L2_위장.cpp" />
