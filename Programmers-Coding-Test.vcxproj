@@ -193,6 +193,7 @@
     <ClCompile Include="L2\L2_주식가격.cpp" />
     <ClCompile Include="L2\L2_카펫.cpp" />
     <ClCompile Include="L2\L2_타겟 넘버.cpp" />
+    <ClCompile Include="L2\L2_튜플.cpp" />
     <ClCompile Include="L2\L2_프린터.cpp" />
     <ClCompile Include="L2\L2_조이스틱.cpp" />
     <ClCompile Include="L2\L2_큰 수 만들기.cpp" />
