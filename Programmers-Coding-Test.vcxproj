@@ -172,6 +172,7 @@
     <ClCompile Include="L1\L1_행렬의 덧셈.cpp" />
     <ClCompile Include="L2\L2_124 나라의 숫자.cpp" />
     <ClCompile Include="L2\L2_H-Index.cpp" />
+    <ClCompile Include="L2\L2_[3차] n진수 게임.cpp" />
     <ClCompile Include="L2\L2_가장 큰 수.cpp" />
     <ClCompile Include="L2\L2_가장 큰 정사각형 찾기.cpp" />
     <ClCompile Include="L2\L2_게임 맵 최단거리.cpp" />

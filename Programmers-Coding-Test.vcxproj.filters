@@ -318,5 +318,8 @@
     <ClCompile Include="L2\L2_튜플.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_[3차] n진수 게임.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
