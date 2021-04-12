@@ -339,5 +339,23 @@
     <ClCompile Include="L2\L2_오픈채팅방.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_N개의 최소공배수.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_방문 길이.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_JadenCase 문자열 만들기.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_이진 변환 반복하기.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_영어 끝말잇기.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L3_단속카메라.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

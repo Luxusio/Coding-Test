@@ -172,6 +172,7 @@
     <ClCompile Include="L1\L1_행렬의 덧셈.cpp" />
     <ClCompile Include="L2\L2_124 나라의 숫자.cpp" />
     <ClCompile Include="L2\L2_H-Index.cpp" />
+    <ClCompile Include="L2\L2_JadenCase 문자열 만들기.cpp" />
     <ClCompile Include="L2\L2_[3차] n진수 게임.cpp" />
     <ClCompile Include="L2\L2_가장 큰 수.cpp" />
     <ClCompile Include="L2\L2_가장 큰 정사각형 찾기.cpp" />
@@ -185,12 +186,15 @@
     <ClCompile Include="L2\L2_멀쩡한 사각형.cpp" />
     <ClCompile Include="L2\L2_메뉴 리뉴얼.cpp" />
     <ClCompile Include="L2\L2_문자열 압축.cpp" />
+    <ClCompile Include="L2\L2_방문 길이.cpp" />
     <ClCompile Include="L2\L2_소수 찾기.cpp" />
     <ClCompile Include="L2\L2_순위 검색.cpp" />
     <ClCompile Include="L2\L2_스킬트리.cpp" />
+    <ClCompile Include="L2\L2_영어 끝말잇기.cpp" />
     <ClCompile Include="L2\L2_오픈채팅방.cpp" />
     <ClCompile Include="L2\L2_올바른 괄호.cpp" />
     <ClCompile Include="L2\L2_위장.cpp" />
+    <ClCompile Include="L2\L2_이진 변환 반복하기.cpp" />
     <ClCompile Include="L2\L2_전화번호 목록.cpp" />
     <ClCompile Include="L2\L2_주식가격.cpp" />
     <ClCompile Include="L2\L2_최댓값과 최솟값.cpp" />
@@ -207,6 +211,8 @@
     <ClCompile Include="L2\L2_땅따먹기.cpp" />
     <ClCompile Include="L2\L2_숫자의 표현.cpp" />
     <ClCompile Include="L2\L2_행렬의 곱셈.cpp" />
+    <ClCompile Include="L2\L2_N개의 최소공배수.cpp" />
+    <ClCompile Include="L2\L3_단속카메라.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
     <ClCompile Include="L3\L3_N-Queen.cpp" />
     <ClCompile Include="L3\L3_N으로 표현.cpp" />
