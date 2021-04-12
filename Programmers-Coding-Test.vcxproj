@@ -212,7 +212,7 @@
     <ClCompile Include="L2\L2_숫자의 표현.cpp" />
     <ClCompile Include="L2\L2_행렬의 곱셈.cpp" />
     <ClCompile Include="L2\L2_N개의 최소공배수.cpp" />
-    <ClCompile Include="L2\L3_단속카메라.cpp" />
+    <ClCompile Include="L3\L3_단속카메라.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
     <ClCompile Include="L3\L3_N-Queen.cpp" />
     <ClCompile Include="L3\L3_N으로 표현.cpp" />
@@ -221,6 +221,7 @@
     <ClCompile Include="L3\L3_네트워크.cpp" />
     <ClCompile Include="L3\L3_단어 변환.cpp" />
     <ClCompile Include="L3\L3_디스크 컨트롤러.cpp" />
+    <ClCompile Include="L3\L3_베스트앨범.cpp" />
     <ClCompile Include="L3\L3_섬 연결하기.cpp" />
     <ClCompile Include="L3\L3_여행경로.cpp" />
     <ClCompile Include="L3\L3_이중우선순위큐.cpp" />
