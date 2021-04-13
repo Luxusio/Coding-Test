@@ -360,5 +360,11 @@
     <ClCompile Include="L3\L3_베스트앨범.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_[카카오 인턴] 수식 최대화.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_[1차] 뉴스 클러스터링.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
