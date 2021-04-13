@@ -174,6 +174,7 @@
     <ClCompile Include="L2\L2_H-Index.cpp" />
     <ClCompile Include="L2\L2_JadenCase 문자열 만들기.cpp" />
     <ClCompile Include="L2\L2_[1차] 뉴스 클러스터링.cpp" />
+    <ClCompile Include="L2\L2_[1차] 캐시.cpp" />
     <ClCompile Include="L2\L2_[3차] n진수 게임.cpp" />
     <ClCompile Include="L2\L2_[카카오 인턴] 수식 최대화.cpp" />
     <ClCompile Include="L2\L2_가장 큰 수.cpp" />
@@ -199,6 +200,7 @@
     <ClCompile Include="L2\L2_이진 변환 반복하기.cpp" />
     <ClCompile Include="L2\L2_전화번호 목록.cpp" />
     <ClCompile Include="L2\L2_주식가격.cpp" />
+    <ClCompile Include="L2\L2_짝지어 제거하기.cpp" />
     <ClCompile Include="L2\L2_최댓값과 최솟값.cpp" />
     <ClCompile Include="L2\L2_최솟값 만들기.cpp" />
     <ClCompile Include="L2\L2_카펫.cpp" />
@@ -214,6 +216,7 @@
     <ClCompile Include="L2\L2_숫자의 표현.cpp" />
     <ClCompile Include="L2\L2_행렬의 곱셈.cpp" />
     <ClCompile Include="L2\L2_N개의 최소공배수.cpp" />
+    <ClCompile Include="L2\L2_후보키.cpp" />
     <ClCompile Include="L3\L3_단속카메라.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
     <ClCompile Include="L3\L3_N-Queen.cpp" />
