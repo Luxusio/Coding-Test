@@ -177,6 +177,7 @@
     <ClCompile Include="L2\L2_[1차] 캐시.cpp" />
     <ClCompile Include="L2\L2_[1차] 프렌즈4블록.cpp" />
     <ClCompile Include="L2\L2_[3차] n진수 게임.cpp" />
+    <ClCompile Include="L2\L2_[3차] 압축.cpp" />
     <ClCompile Include="L2\L2_[카카오 인턴] 수식 최대화.cpp" />
     <ClCompile Include="L2\L2_가장 큰 수.cpp" />
     <ClCompile Include="L2\L2_가장 큰 정사각형 찾기.cpp" />
@@ -195,6 +196,7 @@
     <ClCompile Include="L2\L2_순위 검색.cpp" />
     <ClCompile Include="L2\L2_스킬트리.cpp" />
     <ClCompile Include="L2\L2_영어 끝말잇기.cpp" />
+    <ClCompile Include="L2\L2_예상 대진표.cpp" />
     <ClCompile Include="L2\L2_오픈채팅방.cpp" />
     <ClCompile Include="L2\L2_올바른 괄호.cpp" />
     <ClCompile Include="L2\L2_위장.cpp" />

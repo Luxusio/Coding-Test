@@ -384,5 +384,11 @@
     <ClCompile Include="L2\L2_[1차] 프렌즈4블록.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_예상 대진표.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_[3차] 압축.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
