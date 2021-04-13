@@ -375,5 +375,11 @@
     <ClCompile Include="L2\L2_후보키.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_점프와 순간 이동.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_파일명 정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

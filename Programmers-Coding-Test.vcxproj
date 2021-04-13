@@ -199,6 +199,7 @@
     <ClCompile Include="L2\L2_위장.cpp" />
     <ClCompile Include="L2\L2_이진 변환 반복하기.cpp" />
     <ClCompile Include="L2\L2_전화번호 목록.cpp" />
+    <ClCompile Include="L2\L2_점프와 순간 이동.cpp" />
     <ClCompile Include="L2\L2_주식가격.cpp" />
     <ClCompile Include="L2\L2_짝지어 제거하기.cpp" />
     <ClCompile Include="L2\L2_최댓값과 최솟값.cpp" />
@@ -206,6 +207,7 @@
     <ClCompile Include="L2\L2_카펫.cpp" />
     <ClCompile Include="L2\L2_타겟 넘버.cpp" />
     <ClCompile Include="L2\L2_튜플.cpp" />
+    <ClCompile Include="L2\L2_파일명 정렬.cpp" />
     <ClCompile Include="L2\L2_프린터.cpp" />
     <ClCompile Include="L2\L2_조이스틱.cpp" />
     <ClCompile Include="L2\L2_큰 수 만들기.cpp" />
