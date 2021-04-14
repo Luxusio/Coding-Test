@@ -390,5 +390,11 @@
     <ClCompile Include="L2\L2_[3차] 압축.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
+    <ClCompile Include="L2\L2_쿼드압축 후 개수 세기.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_배달.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

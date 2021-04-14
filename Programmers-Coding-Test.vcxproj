@@ -192,6 +192,7 @@
     <ClCompile Include="L2\L2_메뉴 리뉴얼.cpp" />
     <ClCompile Include="L2\L2_문자열 압축.cpp" />
     <ClCompile Include="L2\L2_방문 길이.cpp" />
+    <ClCompile Include="L2\L2_배달.cpp" />
     <ClCompile Include="L2\L2_소수 찾기.cpp" />
     <ClCompile Include="L2\L2_순위 검색.cpp" />
     <ClCompile Include="L2\L2_스킬트리.cpp" />
@@ -208,6 +209,7 @@
     <ClCompile Include="L2\L2_최댓값과 최솟값.cpp" />
     <ClCompile Include="L2\L2_최솟값 만들기.cpp" />
     <ClCompile Include="L2\L2_카펫.cpp" />
+    <ClCompile Include="L2\L2_쿼드압축 후 개수 세기.cpp" />
     <ClCompile Include="L2\L2_타겟 넘버.cpp" />
     <ClCompile Include="L2\L2_튜플.cpp" />
     <ClCompile Include="L2\L2_파일명 정렬.cpp" />
