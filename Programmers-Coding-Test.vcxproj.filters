@@ -396,7 +396,7 @@
     <ClCompile Include="L2\L2_배달.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
-    <ClCompile Include="L2_단체사진 찍기.cpp">
+    <ClCompile Include="L2\L2_단체사진 찍기.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
   </ItemGroup>

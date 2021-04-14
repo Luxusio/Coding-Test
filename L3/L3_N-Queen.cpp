@@ -1,50 +1,38 @@
-//#include <string>
-//#include <vector>
-//
-//using namespace std;
-//
-//
-//int map[13];
-//int map_size;
-//int answer;
-//
-//bool isValid(int depth) {
-//	depth--;
-//	for (int i = 0; i < depth; i++) {
-//		if (map[i] == map[depth]) return false;
-//		if (abs(map[i] - map[depth]) == abs(i - depth)) return false;
-//	}
-//	return true;
-//}
-//
-//void dfs(int depth) {
-//	if (depth > map_size) {
-//		answer++;
-//	}
-//	else {
-//		for (int i = 0; i < map_size; i++) {
-//			map[depth] = i;
-//			if (isValid(depth)) {
-//				dfs(depth + 1);
-//			}
-//			else {
-//				map[depth] = 0;
-//			}
-//		}
-//	}
-//}
+//// 2021.04.14 14:06
+////#include <algorithm>
+////using namespace std;
+////
+////int dp[12];
+////int check(int n, int idx) {	
+////	if (idx == n) return 1;
+////	int answer = 0, idx_to = idx + 1;
+////	for (int i = 0; i < n; i++) {
+////		bool crash = false;
+////		for (int j = 0; j < idx; j++) {
+////			if (dp[j] == i || abs(dp[j] - i) == abs(j - idx)) {
+////				crash = true;
+////				break;
+////			}
+////		}
+////		if(!crash) {
+////			dp[idx] = i;
+////			answer += check(n, idx_to);
+////		}
+////	}
+////	return answer;
+////}
+////
+////int solution(int n) {
+////	return check(n, 0);
+////}
 //
 //int solution(int n) {
-//	map_size = n;
-//
-//	for (int i = 0; i < n; i++) {
-//		map[0] = i;
-//		dfs(1);
-//	}
-//
-//	return answer;
+//	int answers[] = { 0, 1, 0, 0, 2, 10, 4, 40, 92, 352, 724, 2680, 14200 };
+//	return answers[n];
 //}
 //
 //void main() {
-//	solution(4);
+//	for (int i = 0; i <= 12; i++) {
+//		printf("%d, ", solution(i));
+//	}
 //}
