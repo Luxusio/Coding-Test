@@ -224,6 +224,7 @@
     <ClCompile Include="L2\L2_행렬의 곱셈.cpp" />
     <ClCompile Include="L2\L2_N개의 최소공배수.cpp" />
     <ClCompile Include="L2\L2_후보키.cpp" />
+    <ClCompile Include="L2_단체사진 찍기.cpp" />
     <ClCompile Include="L3\L3_단속카메라.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
     <ClCompile Include="L3\L3_N-Queen.cpp" />
