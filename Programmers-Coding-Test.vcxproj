@@ -233,8 +233,10 @@
     <ClCompile Include="L3\L3_가장 먼 노드.cpp" />
     <ClCompile Include="L3\L3_네트워크.cpp" />
     <ClCompile Include="L3\L3_단어 변환.cpp" />
+    <ClCompile Include="L3\L3_등굣길.cpp" />
     <ClCompile Include="L3\L3_디스크 컨트롤러.cpp" />
     <ClCompile Include="L3\L3_베스트앨범.cpp" />
+    <ClCompile Include="L3\L3_브라이언의 고민.cpp" />
     <ClCompile Include="L3\L3_섬 연결하기.cpp" />
     <ClCompile Include="L3\L3_여행경로.cpp" />
     <ClCompile Include="L3\L3_이중우선순위큐.cpp" />

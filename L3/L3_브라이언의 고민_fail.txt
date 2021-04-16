@@ -1,0 +1,78 @@
+#include <string>
+#include <vector>
+#include <iostream>
+using namespace std;
+
+void rem_space(string& str, int from_last) {
+	int pos = str.length() - from_last;
+	if (str[pos] == ' ') str = str.substr(0, pos);
+}
+
+string solution(string sentence) {
+	vector<bool> used(26, false);
+	char outer = 0, between = 0;
+	int big_count = 0;
+	string answer = "";
+	
+	for (char c : sentence) {
+		cout << answer << endl;
+		if (islower(c)) { // small
+			if (used[c - 'a']) return "invalid";
+
+			// O
+			if (big_count == 0) {
+				if (outer == 0) {
+					outer = c; // OO 5
+				}
+			}
+			else {
+				if (c == outer) { // OO 7 OB 8
+					cout << "OO OB" << endl;
+					used[outer - 'a'] = true;
+					outer = 0;
+					rem_space(answer, 1);
+					answer += " ";
+				}
+			}
+
+			// B
+			if (big_count == 1) {
+				if (between == 0) {
+					between = c; // BB 1, OB 2
+				}
+				else if (between != c && outer != c) {
+					// BO 4, 6
+					cout << "BO" << endl;
+					used[between - 'a'] = true;
+					between = 0; // 4
+					outer = c;	// 6
+					rem_space(answer, 1);
+					answer += " ";
+				}
+			}
+
+			big_count = 0;
+		}
+		else { // big
+			big_count++;
+			if (between != 0) {
+				if (big_count == 2) {
+					// BB 3
+					cout << "BB" << endl;
+					between = 0;
+					big_count = 1;
+
+					rem_space(answer, 1);
+					answer += " ";
+				}
+				else if (outer == 0 && big_count > 2)
+					return "invalid";
+			}
+
+			answer += c;
+		}
+	}
+
+	rem_space(answer, 1);
+	return answer;
+}
