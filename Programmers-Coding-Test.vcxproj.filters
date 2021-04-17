@@ -417,5 +417,8 @@
     <ClCompile Include="L3\L3_하노이의 탑.cpp">
       <Filter>소스 파일\L3</Filter>
     </ClCompile>
+    <ClCompile Include="L3\L3_최고의 집합.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

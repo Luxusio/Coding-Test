@@ -246,6 +246,7 @@
     <ClCompile Include="L3\L3_입국심사.cpp" />
     <ClCompile Include="L3\L3_자물쇠와 열쇠.cpp" />
     <ClCompile Include="L3\L3_정수 삼각형.cpp" />
+    <ClCompile Include="L3\L3_최고의 집합.cpp" />
     <ClCompile Include="L3\L3_풍선 터트리기.cpp" />
     <ClCompile Include="L3\L3_하노이의 탑.cpp" />
     <ClCompile Include="L4\L4_징검다리.cpp" />
