@@ -399,11 +399,14 @@
     <ClCompile Include="L2\L2_단체사진 찍기.cpp">
       <Filter>소스 파일\L2</Filter>
     </ClCompile>
-    <ClCompile Include="L3\L3_등굣길.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="L3\L3_브라이언의 고민.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3\L3_등굣길.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3\L3_길 찾기 게임.cpp">
+      <Filter>소스 파일\L3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
