@@ -408,5 +408,14 @@
     <ClCompile Include="L3\L3_길 찾기 게임.cpp">
       <Filter>소스 파일\L3</Filter>
     </ClCompile>
+    <ClCompile Include="L3\L3_가장 긴 팰린드롬.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3\L3_멀리 뛰기.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3\L3_하노이의 탑.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

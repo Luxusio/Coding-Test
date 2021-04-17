@@ -225,6 +225,7 @@
     <ClCompile Include="L2\L2_N개의 최소공배수.cpp" />
     <ClCompile Include="L2\L2_후보키.cpp" />
     <ClCompile Include="L2\L2_단체사진 찍기.cpp" />
+    <ClCompile Include="L3\L3_가장 긴 팰린드롬.cpp" />
     <ClCompile Include="L3\L3_길 찾기 게임.cpp" />
     <ClCompile Include="L3\L3_단속카메라.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
@@ -236,6 +237,7 @@
     <ClCompile Include="L3\L3_단어 변환.cpp" />
     <ClCompile Include="L3\L3_등굣길.cpp" />
     <ClCompile Include="L3\L3_디스크 컨트롤러.cpp" />
+    <ClCompile Include="L3\L3_멀리 뛰기.cpp" />
     <ClCompile Include="L3\L3_베스트앨범.cpp" />
     <ClCompile Include="L3\L3_브라이언의 고민.cpp" />
     <ClCompile Include="L3\L3_섬 연결하기.cpp" />
@@ -245,6 +247,7 @@
     <ClCompile Include="L3\L3_자물쇠와 열쇠.cpp" />
     <ClCompile Include="L3\L3_정수 삼각형.cpp" />
     <ClCompile Include="L3\L3_풍선 터트리기.cpp" />
+    <ClCompile Include="L3\L3_하노이의 탑.cpp" />
     <ClCompile Include="L4\L4_징검다리.cpp" />
     <ClCompile Include="L5\L5_문자열의 아름다움.cpp" />
     <ClCompile Include="L5\L5_방의 개수.cpp" />
