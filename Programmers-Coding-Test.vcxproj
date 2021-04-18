@@ -225,6 +225,7 @@
     <ClCompile Include="L2\L2_N개의 최소공배수.cpp" />
     <ClCompile Include="L2\L2_후보키.cpp" />
     <ClCompile Include="L2\L2_단체사진 찍기.cpp" />
+    <ClCompile Include="L3\L3_[1차] 셔틀버스.cpp" />
     <ClCompile Include="L3\L3_가장 긴 팰린드롬.cpp" />
     <ClCompile Include="L3\L3_길 찾기 게임.cpp" />
     <ClCompile Include="L3\L3_단속카메라.cpp" />
@@ -241,6 +242,7 @@
     <ClCompile Include="L3\L3_베스트앨범.cpp" />
     <ClCompile Include="L3\L3_브라이언의 고민.cpp" />
     <ClCompile Include="L3\L3_섬 연결하기.cpp" />
+    <ClCompile Include="L3\L3_순위.cpp" />
     <ClCompile Include="L3\L3_여행경로.cpp" />
     <ClCompile Include="L3\L3_이중우선순위큐.cpp" />
     <ClCompile Include="L3\L3_입국심사.cpp" />

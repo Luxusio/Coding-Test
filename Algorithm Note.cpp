@@ -10,6 +10,7 @@ DFS : Stack, recursive function
 
 BFS : Queue
 Prim
-Dijkstra
+Dijkstra - 다익스트라
+Floyd-Warshall - 플로이드 워셜
 
 */
