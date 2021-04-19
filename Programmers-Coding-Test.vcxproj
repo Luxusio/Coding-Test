@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -225,6 +225,8 @@
     <ClCompile Include="L2\L2_N개의 최소공배수.cpp" />
     <ClCompile Include="L2\L2_후보키.cpp" />
     <ClCompile Include="L2\L2_단체사진 찍기.cpp" />
+    <ClCompile Include="L1\L1_음양 더하기.cpp" />
+    <ClCompile Include="L3\L2_괄호 회전하기.cpp" />
     <ClCompile Include="L3\L3_[1차] 셔틀버스.cpp" />
     <ClCompile Include="L3\L3_가장 긴 팰린드롬.cpp" />
     <ClCompile Include="L3\L3_길 찾기 게임.cpp" />
