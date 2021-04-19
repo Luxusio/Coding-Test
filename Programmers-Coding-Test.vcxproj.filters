@@ -426,5 +426,14 @@
     <ClCompile Include="L3\L3_순위.cpp">
       <Filter>소스 파일\L3</Filter>
     </ClCompile>
+    <ClCompile Include="L1\L1_음양 더하기.cpp">
+      <Filter>소스 파일\L1</Filter>
+    </ClCompile>
+    <ClCompile Include="L2\L2_괄호 회전하기.cpp">
+      <Filter>소스 파일\L2</Filter>
+    </ClCompile>
+    <ClCompile Include="L3_거스름돈.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
