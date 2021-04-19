@@ -1,18 +1,14 @@
-#include <vector>
-#include <algorithm>
-using namespace std;
-
-int dfs(int n, vector<int>& money, int now_value, int idx) {
-	if (now_value == n) return 1;
-	int answer = 0;
-	for (int i = idx; i < money.size(); i++) {
-		int sum = now_value + money[i];
-		if (sum <= n) answer += dfs(n, money, sum, i);
-	}
-	return answer;
-}
-
-int solution(int n, vector<int> money) {
-	sort(money.begin(), money.end(), greater<int>());
-	return dfs(n, money, 0, 0);
-}
+//// 2021.04.19 18:11
+//#include <vector>
+//using namespace std;
+//
+//int solution(int n, vector<int> money) {
+//	vector<int> dp(n + 1);
+//	dp[0] = 1;
+//	for (int i = 0; i < money.size(); i++) {
+//		for (int j = money[i]; j <= n; j++) {
+//			dp[j] = (dp[j] + dp[j - money[i]]) % 1000000007;
+//		}
+//	}
+//	return dp[n];
+//}
