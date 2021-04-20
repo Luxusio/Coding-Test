@@ -438,5 +438,8 @@
     <ClCompile Include="L3\L3_기둥과 보 설치.cpp">
       <Filter>소스 파일\L3</Filter>
     </ClCompile>
+    <ClCompile Include="L3_야근 지수.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
