@@ -256,7 +256,8 @@
     <ClCompile Include="L3\L3_하노이의 탑.cpp" />
     <ClCompile Include="L3\L3_거스름돈.cpp" />
     <ClCompile Include="L3\L3_야근 지수.cpp" />
-    <ClCompile Include="L3_불량 사용자.cpp" />
+    <ClCompile Include="L3\L3_불량 사용자.cpp" />
+    <ClCompile Include="L3_징검다리 건너기.cpp" />
     <ClCompile Include="L4\L4_징검다리.cpp" />
     <ClCompile Include="L5\L5_문자열의 아름다움.cpp" />
     <ClCompile Include="L5\L5_방의 개수.cpp" />

@@ -441,7 +441,10 @@
     <ClCompile Include="L3\L3_야근 지수.cpp">
       <Filter>소스 파일\L3</Filter>
     </ClCompile>
-    <ClCompile Include="L3_불량 사용자.cpp">
+    <ClCompile Include="L3\L3_불량 사용자.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3_징검다리 건너기.cpp">
       <Filter>소스 파일\L3</Filter>
     </ClCompile>
   </ItemGroup>
