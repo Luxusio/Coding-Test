@@ -229,6 +229,7 @@
     <ClCompile Include="L2\L2_괄호 회전하기.cpp" />
     <ClCompile Include="L3\L3_[1차] 셔틀버스.cpp" />
     <ClCompile Include="L3\L3_가장 긴 팰린드롬.cpp" />
+    <ClCompile Include="L3\L3_기둥과 보 설치.cpp" />
     <ClCompile Include="L3\L3_길 찾기 게임.cpp" />
     <ClCompile Include="L3\L3_단속카메라.cpp" />
     <ClCompile Include="L3\L3_2 x n 타일링.cpp" />
@@ -253,7 +254,7 @@
     <ClCompile Include="L3\L3_최고의 집합.cpp" />
     <ClCompile Include="L3\L3_풍선 터트리기.cpp" />
     <ClCompile Include="L3\L3_하노이의 탑.cpp" />
-    <ClCompile Include="L3_거스름돈.cpp" />
+    <ClCompile Include="L3\L3_거스름돈.cpp" />
     <ClCompile Include="L4\L4_징검다리.cpp" />
     <ClCompile Include="L5\L5_문자열의 아름다움.cpp" />
     <ClCompile Include="L5\L5_방의 개수.cpp" />
