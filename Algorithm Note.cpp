@@ -1,5 +1,7 @@
 /*
 
+too big number:
+	binary search
 
 Heap:
 	Priority Queue
