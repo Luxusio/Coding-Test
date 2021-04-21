@@ -1,24 +1,27 @@
-#include <string>
-#include <vector>
-#include <unordered_map>
-#include <algorithm>
-#include <iostream>
-using namespace std;
-
-vector<int> solution(vector<string> gems) {
-	unordered_map<string, pair<int, int>> map;
-	for (int i = 0; i < gems.size(); i++) {
-		auto it = map.find(gems[i]);
-		if (it == map.end()) map[gems[i]] = { i, i };
-		else it->second.second = i;
-	}
-	
-	int min_end = gems.size(), max_start = -1;
-	for (pair<string, pair<int, int>> p : map) {
-		max_start = max(p.second.first, max_start);
-		min_end = min(p.second.second, min_end);
-		cout << p.first << ": " << p.second.first << "~" << p.second.second << "->(" << min_end+1 << ", " << max_start+1 << ")" << endl;
-	}
-
-	return { min_end + 1, max_start + 1 };
-}
+//// 2021.04.21 19:24
+//#include <string>
+//#include <vector>
+//#include <unordered_set>
+//#include <unordered_map>
+//using namespace std;
+//
+//vector<int> solution(vector<string> gems) {
+//	unordered_set<string> all_kinds;
+//	unordered_map<string, int> map;
+//	for (string& s : gems) all_kinds.insert(s);
+//
+//	int begin = 0, end = 0, mb = 0, me = gems.size() - 1;
+//	for (end = 0; end < gems.size(); end++) {
+//		map[gems[end]]++;
+//		while (map.size() == all_kinds.size()) {
+//			if (end - begin < me - mb) {
+//				mb = begin;
+//				me = end;
+//			}
+//			auto it = map.find(gems[begin++]);
+//			if ((--it->second) == 0) map.erase(it);
+//		}
+//	}
+//
+//	return { mb + 1, me + 1 };
+//}

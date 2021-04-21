@@ -243,9 +243,11 @@
     <ClCompile Include="L3\L3_디스크 컨트롤러.cpp" />
     <ClCompile Include="L3\L3_멀리 뛰기.cpp" />
     <ClCompile Include="L3\L3_베스트앨범.cpp" />
+    <ClCompile Include="L3\L3_보석 쇼핑.cpp" />
     <ClCompile Include="L3\L3_브라이언의 고민.cpp" />
     <ClCompile Include="L3\L3_섬 연결하기.cpp" />
     <ClCompile Include="L3\L3_순위.cpp" />
+    <ClCompile Include="L3\L3_숫자 게임.cpp" />
     <ClCompile Include="L3\L3_여행경로.cpp" />
     <ClCompile Include="L3\L3_이중우선순위큐.cpp" />
     <ClCompile Include="L3\L3_입국심사.cpp" />

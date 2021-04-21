@@ -447,5 +447,11 @@
     <ClCompile Include="L3\L3_징검다리 건너기.cpp">
       <Filter>소스 파일\L3</Filter>
     </ClCompile>
+    <ClCompile Include="L3\L3_숫자 게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="L3\L3_보석 쇼핑.cpp">
+      <Filter>소스 파일\L3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
