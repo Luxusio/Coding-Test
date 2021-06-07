@@ -1,0 +1,63 @@
+#include <string>
+#include <vector>
+#include <iostream>
+using namespace std;
+
+vector<string> solution(vector<string> s) {
+	vector<string> answer(s.size());
+	for (int i = 0; i < s.size(); i++) {
+		string str = s[i];
+		int idx, from, to, cnt, top, count110 = 0, zero = 0;
+
+		cnt = 0;
+		for (from = 0; from < str.length(); from++) {
+			if (str[from] == '0') cnt = 0;
+			else if (++cnt == 2) break;
+		}
+
+		for (to = str.length() - 1; to > from; to--) {
+			if (str[to] == '0') break;
+		}
+
+		top = from + 1;
+		for (idx = from + 1; idx <= to; idx++) {
+			if (str[idx] == '0') {
+				if (cnt >= 2) {
+					count110++;
+					
+					top -= 2;
+					cnt -= 2;
+				}
+				else {
+					str[top++] = '0';
+					zero = 1;
+					cnt = 0;
+				}
+
+			}
+			else {
+				cnt++;
+				str[top++] = '1';
+			}
+			cout << str << " : " << to_string(str[idx] - 48) << ", " << cnt << ", " << top << ", " << count110 << ":" << zero << endl;
+		}
+
+		if (!zero) {
+			idx = to;
+			while (top >= from) {
+				str[idx--] = str[--top];
+			}
+			//str[idx--] = str[--top];
+		}
+		cout << str << " : " << from << ", " << to << ", " << cnt << ", " << top << ", " << endl;
+		for (cnt = 0; cnt < count110; cnt++) {
+			str[top++] = '1';
+			str[top++] = '1';
+			str[top++] = '0';
+		}
+		cout << str << " : " << from << ", " << to << ", " << cnt << ", " << top << ", " << endl;
+
+		answer[i] = str;
+	}
+	return answer;
+}
