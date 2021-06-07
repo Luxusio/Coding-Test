@@ -1,0 +1,34 @@
+#include <string>
+#include <vector>
+#include <iostream>
+using namespace std;
+
+//vector<string> solution(vector<string> s) {
+//	vector<string> answer(s.size());
+//	for (int i = 0; i < s.size(); i++) {
+//		int from = -1, to = -1, cnt = 0;
+//		string str = s[i];
+//		while (true) {
+//			from = to = -1;
+//			cnt = 0;
+//			for (int j = 0; j < str.length(); j++) {
+//				if (str[j] == '1') {
+//					if (++cnt == 3 && to == -1) to = j - 2;
+//				}
+//				else {
+//					if (cnt >= 2) {
+//						from = j - cnt + 1;
+//						if (to != -1) break;
+//					}
+//					cnt = 0;
+//				}
+//			}
+//			cout << from << ", " << to << endl;
+//			if (from == -1 || to == -1 || from <= to) break;
+//			str = str.substr(0, to) + "110" + str.substr(to, from - to) + str.substr(from + 3);
+//			cout << str << endl;
+//		}
+//		answer[i] = str;
+//	}
+//	return answer;
+//}
